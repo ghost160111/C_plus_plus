@@ -12,7 +12,7 @@
 
 > :bulb: Let's start the documentation of C++ programming language!
 
-## Course content
+## Content
 
 1. Chapter-1: Diving in C++
     - Your first C++ program
