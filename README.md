@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 # C++
 
 ### C++  -  Documentation
-=======
+
 # C++  -  Documentation
->>>>>>> 912459d87dee625734f34453c741a559ec0ae5c5
 
 > :warning: This repository's task to document whole syntax of C++.
 
